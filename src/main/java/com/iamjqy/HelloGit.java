@@ -7,6 +7,12 @@ public class HelloGit {
 
 
         System.out.println("是分支节点吗?");
+        System.out.println("是分支节点吗?");
+        System.out.println("是分支节点吗?");
+        System.out.println("是分支节点吗?");
+        System.out.println("是分支节点吗?");
+        System.out.println("是分支节点吗?");
+
 
     }
 }
